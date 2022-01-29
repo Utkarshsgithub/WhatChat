@@ -27,11 +27,11 @@ html {
   padding-bottom: 20px;
 }
 .card-header {
-  border-radius: 15px 15px 0 0 !important;
+  border-radius: 5px 5px 0 0 !important;
   border-bottom: 0 !important;
 }
 .card-footer {
-  border-radius: 0 0 15px 15px !important;
+  border-radius: 0 0 5px 5px !important;
   border-top: 0 !important;
   bottom: 0;
   position: absolute;
@@ -41,7 +41,7 @@ html {
   align-content: center;
 }
 .search {
-  border-radius: 15px 0 0 15px !important;
+  border-radius: 5px 0 0 5px !important;
   background-color: rgba(0, 0, 0, 0.3) !important;
   border: 0 !important;
   color: white !important;
@@ -62,21 +62,21 @@ html {
   outline: 0px !important;
 }
 .attach_btn {
-  border-radius: 15px 0 0 15px !important;
+  border-radius: 5px 0 0 5px !important;
   background-color: rgba(0, 0, 0, 0.3) !important;
   border: 0 !important;
   color: white !important;
   cursor: pointer;
 }
 .send_btn {
-  border-radius: 0 15px 15px 0 !important;
+  border-radius: 0 5px 5px 0 !important;
   background-color: rgba(0, 0, 0, 0.3) !important;
   border: 0 !important;
   color: white !important;
   cursor: pointer;
 }
 .search_btn {
-  border-radius: 0 15px 15px 0 !important;
+  border-radius: 0 5px 5px 0 !important;
   background-color: rgba(0, 0, 0, 0.3) !important;
   border: 0 !important;
   color: white !important;
@@ -153,7 +153,7 @@ html {
   margin-top: auto;
   margin-bottom: auto;
   margin-left: 10px;
-  border-radius: 25px;
+  border-radius: 5px;
   background-color: #82ccdd;
   padding: 10px;
   position: relative;
@@ -166,7 +166,7 @@ html {
   margin-top: auto;
   margin-bottom: auto;
   margin-right: 10px;
-  border-radius: 25px;
+  border-radius: 5px;
   background-color: #78e08f;
   padding: 10px;
   position: relative;
